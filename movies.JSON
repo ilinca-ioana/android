@@ -1,34 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<movies>
-    <movie>
-        <movieTitle>Inception</movieTitle>
-        <profit>829895144</profit>
-        <movieGenre>Sci-Fi</movieGenre>
-        <releaseDate>2010-07-16</releaseDate>
-        <platform>Cinema</platform>
-    </movie>
-
-    <movie>
-        <movieTitle>Avatar</movieTitle>
-        <profit>2847246203</profit>
-        <movieGenre>Action</movieGenre>
-        <releaseDate>2009-12-18</releaseDate>
-        <platform>Cinema</platform>
-    </movie>
-
-    <movie>
-        <movieTitle>Interstellar</movieTitle>
-        <profit>701729206</profit>
-        <movieGenre>Sci-Fi</movieGenre>
-        <releaseDate>2014-11-07</releaseDate>
-        <platform>Cinema</platform>
-    </movie>
-
-    <movie>
-        <movieTitle>Stranger Things</movieTitle>
-        <profit>90000000</profit>
-        <movieGenre>Drama</movieGenre>
-        <releaseDate>2016-07-15</releaseDate>
-        <platform>Netflix</platform>
-    </movie>
-</movies>
+[
+  {
+    "customerCode": 101,
+    "startDate": "2025-12-20",
+    "payingMethod": "Card",
+    "payedSum": 150.50
+  },
+  {
+    "customerCode": 102,
+    "startDate": "2025-12-21",
+    "payingMethod": "Cash",
+    "payedSum": 80.00
+  },
+  {
+    "customerCode": 103,
+    "startDate": "2025-12-22",
+    "payingMethod": "Transfer",
+    "payedSum": 300.25
+  },
+  {
+    "customerCode": 104,
+    "startDate": "2025-12-23",
+    "payingMethod": "Card",
+    "payedSum": 45.10
+  }
+]
