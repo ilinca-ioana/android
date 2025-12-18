@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>829895144</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Avatar</movieTitle>
+        <profit>2847246203</profit>
+        <movieGenre>Action</movieGenre>
+        <releaseDate>2009-12-18</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>701729206</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Stranger Things</movieTitle>
+        <profit>90000000</profit>
+        <movieGenre>Drama</movieGenre>
+        <releaseDate>2016-07-15</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+</movies>
